@@ -4,7 +4,12 @@ Made with HTML CSS and JAVASCRIPT
 clear ui design 
 not responsive only 1920 x 1080 for better preview 
 other wise thery collapse the design\
-File are bigger that why they are not uploaded
+
+here is the link
+
+
+
+------------------------------>    https://intraditions.netlify.app/     <--------------------------------------------
 
 ****************************E-MAIL for the website all files******************************************
 
